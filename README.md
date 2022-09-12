@@ -10,7 +10,7 @@ By developing this app, I focused on basic concepts of react and typescript, a f
 
 ## Live demo
 
-You can check demo [here](https://clone-google-keep.netlify.app).
+You can check demo [here](https://keep--clone-b04b3.web.app/).
 
 <br>
 
